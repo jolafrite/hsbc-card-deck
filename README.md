@@ -14,6 +14,7 @@ This project provides a `Deck` class that:
 ## Result
 
 > Task :com.hsbc.cardgame.CardGameKt.main()
+
 > Deck information:
 There are 52 cards
 A - club
